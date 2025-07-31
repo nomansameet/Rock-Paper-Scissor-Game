@@ -51,4 +51,3 @@ elif random_number_for_computer == 0 and number_selected_by_user == 2 :
     print("You Lose")
 elif random_number_for_computer < number_selected_by_user :
     print("You Win")
-explain this code
